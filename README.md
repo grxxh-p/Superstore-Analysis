@@ -85,7 +85,7 @@ Average performance metrics across different clusters.
 
 ---
 ## 📍Conclusion:
-This project highlights how product category, regional performance, and discounting impact retail profitability. While the Technology category produced the most profitable product, it also accounted for the largest losses due to heavy discounting.
+This project highlights how product category, regional performance, and discounting impact retail profitability. While the technology category produced the most profitable product, it also accounted for the largest losses due to high discounts.
 
 Overall, I improved my skills in exploratory data analysis, feature engineering, clustering, and regression modeling, with a strong focus on turning data into business insights. 
 
