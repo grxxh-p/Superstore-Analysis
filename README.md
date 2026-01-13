@@ -1,7 +1,7 @@
 # Superstore-Analysis
 This project analyzes a US retail store dataset to study product performance across regions and understand factors behind both profits and losses.
 
----
+
 
 ## 🛠 Tools and Techniques used
 - Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn)
@@ -11,37 +11,37 @@ This project analyzes a US retail store dataset to study product performance acr
 - Clustering (K-Means)
 - Regression Models
 
----
+
 
 ## 📂 Dataset Overview
 - Sample Superstore dataset  
 - ~9,900 records  
 - Features include sales, profit, discount, quantity, category, sub-category, and region.
 
----
+
 
 ## 📊 Exploratory Data Analysis
 ### **Correlation Heatmap**
 Helps understand the relationship between numerical features like sales, profits, discount, and quantity.
 ![Correlation Heatmap](images/correlation_heatmap.png)
 
----
+
 ### **Pairplot**
 Shows the distribution, outliers, and relationship between sales, profits, discount, and quantity.
 ![Pairplot](images/pairplot.png)
 
----
+
 ### **Top 5 profit-making products**
 Highlights products contributing the most profit in each region in the US.
 ![Top 5 profitable products](images/top5_profit_products.png)
 
----
+
 
 ### **Top 5 loss-making products**
 Identifies the five least profit-making products in each region in the US.
 ![Top 5 loss products](images/top5_loss_products.png)
 
----
+
 
 ## 📌 Cluster Analysis
 
@@ -53,7 +53,7 @@ Used to determine the optimal number of clusters for K-Means.
 Average performance metrics across different clusters.
 ![Cluster Summary Table](images/cluster_summary_table.png)
 
----
+
 
 ## 🤖 Machine Learning Models
 
@@ -75,7 +75,7 @@ Average performance metrics across different clusters.
 👉 ***Linear Regression Model performed better among the other models.***
 ![Residual Plot](images/residual_plot.png)
 
----
+
 ## 🔍 Insights
 - Canon imageCLASS 2200 Advanced Copier was the most profitable product across regions.
 - Cubify CubeX 3D Printers (Double Head in the East and Triple Head in the South) emerged as the largest loss-making products, primarily due to heavy discounting.
@@ -83,7 +83,7 @@ Average performance metrics across different clusters.
 - Feature engineering improved model performance and accuracy.
 - Clustering helped identify discount-heavy, underperforming product groups.
 
----
+
 ## 📍Conclusion:
 This project highlights how product category, regional performance, and discounting impact retail profitability. While the technology category produced the most profitable product, it also accounted for the largest losses due to high discounts.
 
